@@ -1,0 +1,24 @@
+
+# Dependencias
+node_modules/
+
+# Archivos generados
+.next/
+dist/
+coverage/
+playwright-report/
+test-results/
+
+# Contraseñas y configuraciones privadas
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+*.zip
+estado-login-admin.png
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
